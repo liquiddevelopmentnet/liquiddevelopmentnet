@@ -5,7 +5,7 @@ struct liquiddevelopmentnet {
   var name = "Finn"
   var username = "liquiddevelopmentnet"
   var pronouns = ["he", "him"]
-  var languages = ["js", "ts", "java", "swift", "html", "php", "css", "c", "cs", "cpp", "python", "other"] // yes html is a language for me
+  var languages = ["java", "ts", "js", "swift", "html", "php", "css", "c", "cs", "cpp", "python", "other"] // yes html is a language for me
   var discord = "Liquid™#3896"
   
   var secret = "https://www.youtube.com/watch?v=a3Z7zEc7AXQ"
